@@ -1,5 +1,5 @@
 /**************************************************
- * Program: assignment2.cpp
+ * Program: twentyone.cpp
  * Author: Raymond Lee
  * Date: 01-31-21
  * Description: Twenty-one, a game similar to Blackjack
